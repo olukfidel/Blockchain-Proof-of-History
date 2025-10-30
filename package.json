@@ -1,0 +1,16 @@
+{
+  "name": "dataoracle",
+  "version": "1.0.0",
+  "description": "This project implements an \"Immutable Data Oracle\" based on a \"Proof-of-History\" philosophy. Its purpose is to create a verifiable, on-chain, auditable log that proves specific off-chain historical data (like stock prices) existed in a certain state at a certain time and has not been tampered with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  }
+}
